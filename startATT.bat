@@ -1,0 +1,3 @@
+call ECHO Attempting to start server......
+call timeout /t 5
+call node server.js
