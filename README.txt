@@ -11,7 +11,7 @@ Go to the provided link and enter your email. This is free of charge and no veri
 give you your API key right after entering your email. (they do not send any sort of spam mail).
 
 4. Copy the API key and then open up the unzipped folder where ATT contents is. Look for a .txt file named "alphavantage_key".
-Open this empty text file and paste your API key into this text file. Once the API key is pasted you can save and close the file.
+Open this text file and paste your API key IN-BETWEEN the quotes where it says "PASTE_API_KEY_HERE. Once the API key is pasted, save and close the file.
  
 5. Go to the unzipped folder again and run the batch file named "module_installer" (this will 
    download all of the nessessary node.js modules and shouldn't take that long 1-2 minutes)
